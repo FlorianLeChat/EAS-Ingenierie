@@ -2,7 +2,7 @@
 
 ## In French
 
-Ceci est un site Internet vitrine pour une entreprise d'installation d'antenne réalisé durant un de mes stage en novembre 2017. Il avait pour but de remplacer, sans y parvenir, l'[ancienne site](http://www.eas-ingenierie.com/1.html) encore en activité et de pouvoir modernisé l'image de l'entreprise. Ce site a été conçu avec l'aide des modèles de [HTML5 Up](https://html5up.net/) n'ayant aucune connaissance technique à l'époque pour créé un quelconque site Internet en partant de rien.
+Ceci est un site Internet vitrine pour une entreprise d'installation d'antennes réalisé durant un de mes stages en novembre 2017. Il avait pour but de remplacer, sans y parvenir, l'[ancienne site](http://www.eas-ingenierie.com/1.html) encore en activité et de pouvoir modernisé l'image de l'entreprise. Ce site avait été conçu avec l'aide des modèles de [HTML5 Up](https://html5up.net/) n'ayant aucune connaissance technique à l'époque pour créé un quelconque site Internet en partant de rien.
  
 ## In English
 
